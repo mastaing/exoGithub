@@ -1,1 +1,3 @@
 Ceci est le fichier de texte n°5
+Test d'apparition
+dans les contributeurs
